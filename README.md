@@ -1,6 +1,6 @@
 # InsightMapper
 
-InsightMapper is a Python package for mapping and visualizing dependencies between variables in complex datasets.
+InsightMapper is a Python package for mapping and visualizing dependencies between variables in complex datasets. PyPI project link: <https://pypi.org/project/InsightMapper/>
 
 ## Features
 
